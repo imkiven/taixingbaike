@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_zirandili"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="自然地理" />
+        <item
+            android:id="@+id/nav_lishiyanxi"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="历史沿革" />
+        <item
+            android:id="@+id/nav_jiaotongjianshe"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="交通建设" />
+        <item
+            android:id="@+id/nav_difangtechan"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="地方特产" />
+        <item
+            android:id="@+id/nav_mingshengguji"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="名胜古迹" />
+        <item
+            android:id="@+id/nav_mingrenfangyan"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="名人方言" />
+    </group>
+
+    <item android:title="交流">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="关于" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="发送" />
+        </menu>
+    </item>
+
+</menu>

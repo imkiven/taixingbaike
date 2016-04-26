@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">泰兴百科</string>
+    <string name="chinese_name">泰兴</string>
+    <string name="english_name">英文名:泰兴(Tai Xing)</string>
+    <string name="other_name">别  名:济川、柴墟、延令（陵）、羌溪、襟江等</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+</resources>
